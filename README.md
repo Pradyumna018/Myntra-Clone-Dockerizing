@@ -84,4 +84,6 @@ You can also use the `docker ps` command to see a list of running containers, in
 
 # OUTPUT
 
+![Screenshot 2024-08-21 002218](https://github.com/user-attachments/assets/22cc9532-50bf-40d6-bab1-373acee7116f)
+
 
